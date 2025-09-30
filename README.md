@@ -1,1 +1,1 @@
-# Internship---Task---6
+I started by creating three passwords with weak, moderate, and strong complexity. I then used an online strength checker to test each one, recording the results and the estimated time it would take to crack them. Finally, I compiled these test results along with answers to key questions about brute force/dictionary attacks, MFA, and best practices into a final report (README.md), which I uploaded to GitHub and submitted.
